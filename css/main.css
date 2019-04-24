@@ -74,3 +74,65 @@ section {
   font-size: 16px;
   color: #364147;
 }
+.header-nav {
+  border: 0;
+  border-bottom: solid 1px #a0a0a0;
+}
+.brand {
+  width: 170px;
+  height: 85px;
+  margin-right: 60px;
+  margin-left: -15px;
+}
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+.search-button {
+  background-color: #a0a0a0;
+  color: #ffffff;
+  height: 30px;
+  width: 100px;
+  padding: 0;
+  border: 0;
+}
+.search-box {
+  border: solid 1px #a0a0a0;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  height: 30px;
+  width: 330px;
+}
+.nav-list {
+  padding-left: 0;
+  width: 575px;
+  margin-top: 10px;
+}
+.nav-list li a {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.profile {
+  margin-left: auto;
+}
+.account {
+  text-align: right;
+  padding: 15px;
+  color: #364147;
+  font-size: 18px;
+}
+.account a {
+  font-size: 14px;
+}
+.profile-pic {
+  height: 60px;
+  width: 60px;
+}
+.profile-pic img {
+  border-radius: 100px;
+  max-width: 100%;
+}
